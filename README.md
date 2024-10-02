@@ -1,2 +1,2 @@
 # Ramos-et-al-2024
-Repository dedicated to demonstrate each pipeline 
+This repository provides a comprehensive description of each pipeline used to conduct the analysis presented in the paper by Ramos et al. (2024). It includes detailed documentation and workflows, from data preprocessing to the final results, ensuring reproducibility and clarity of all methods used in the study. Each pipeline is organized step-by-step, offering insight into the tools, scripts, and parameters employed to achieve the outcomes discussed in the paper.
